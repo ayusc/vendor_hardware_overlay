@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <bool name="config_voice_capable">true</bool>
     <bool name="config_sms_capable">true</bool>
-    <bool name="config_showSysuiInCall">true</bool>
-    <bool name="config_enableHeadsUp">true</bool>
-    <bool name="config_requireCallCapableAccountForHandle">false</bool>
 
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
@@ -13,7 +9,4 @@
     <bool name="config_dozeAfterScreenOff">true</bool>
     
     <bool name="config_automatic_brightness_available">true</bool>
-    <bool name="config_hearing_aid_profile_supported">true</bool>
-    <bool name="config_supportsCamToggle">true</bool>
-    <bool name="config_supportsMicToggle">true</bool>
 </resources>
