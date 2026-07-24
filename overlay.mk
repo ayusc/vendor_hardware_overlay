@@ -75,7 +75,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-s4 \
 	treble-overlay-infinix-zero6 \
 	treble-overlay-infinix-zeroxpro \
-    treble-overlay-lava-lavablaze5g \
+	treble-overlay-lava-lavablaze5g \
 	treble-overlay-lenovo-Q706F \
 	treble-overlay-lenovo-Y70 \
 	treble-overlay-lenovo-k5pro \
@@ -453,5 +453,4 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote9promax \
 	treble-overlay-xiaomi-redminote9s \
 	treble-overlay-xiaomi-redminote9t \
-	treble-overlay-xiaomi-redmis2 \
-
+	treble-overlay-xiaomi-redmis2
